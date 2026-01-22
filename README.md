@@ -2,11 +2,11 @@
 
 A production-ready Laravel package to integrate with the Google Gemini API. Supports text, image, video, audio, long-context, structured output, files, caching, function-calling and understanding capabilities.
 
-[![Version](https://img.shields.io/packagist/v/hosseinhezami/laravel-gemini.svg)](https://packagist.org/packages/hosseinhezami/laravel-gemini)
-[![Downloads](https://img.shields.io/packagist/dt/hosseinhezami/laravel-gemini.svg)](https://packagist.org/packages/hosseinhezami/laravel-gemini)
-[![Star](https://img.shields.io/packagist/stars/hosseinhezami/laravel-gemini.svg)](https://packagist.org/packages/hosseinhezami/laravel-gemini)
-[![License](https://img.shields.io/packagist/l/hosseinhezami/laravel-gemini.svg)](https://packagist.org/packages/hosseinhezami/laravel-gemini)
-[![Laravel Compatible](https://img.shields.io/badge/Laravel-10%2B-brightgreen.svg)](https://hosseinhezami.github.io/laravel-gemini)
+[![Version](https://img.shields.io/packagist/v/ndinhbang/laravel-gemini.svg)](https://packagist.org/packages/ndinhbang/laravel-gemini)
+[![Downloads](https://img.shields.io/packagist/dt/ndinhbang/laravel-gemini.svg)](https://packagist.org/packages/ndinhbang/laravel-gemini)
+[![Star](https://img.shields.io/packagist/stars/ndinhbang/laravel-gemini.svg)](https://packagist.org/packages/ndinhbang/laravel-gemini)
+[![License](https://img.shields.io/packagist/l/ndinhbang/laravel-gemini.svg)](https://packagist.org/packages/ndinhbang/laravel-gemini)
+[![Laravel Compatible](https://img.shields.io/badge/Laravel-10%2B-brightgreen.svg)](https://ndinhbang.github.io/laravel-gemini)
 
 ## Features
 
@@ -24,7 +24,7 @@ A production-ready Laravel package to integrate with the Google Gemini API. Supp
 ## Installation
 
 ```bash
-composer require hosseinhezami/laravel-gemini
+composer require ndinhbang/laravel-gemini
 ```
 
 Publish the configuration file:
